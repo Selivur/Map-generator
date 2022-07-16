@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TextureGenerator">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TextureGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndlessTerrain">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="EndlessTerrain.TerrainChunk">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\EndlessTerrain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAACABAAgAQAAAAACAAEAAAFAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EndlessTerrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapDisplay">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAgAACAAEAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MapDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapGenerator">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABAAAAAAQAAAAAECwEhAIAAAAAAAAAAAAAAAEAE=</HashCode>
+      <FileName>Assets\Scripts\MapGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshGenerator">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MeshGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshData">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQQAAAAQAAAAAAAgAAEAAgA=</HashCode>
+      <FileName>Assets\Scripts\MeshGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Noise">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Noise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="TerrainType">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MapGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
